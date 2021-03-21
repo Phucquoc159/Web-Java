@@ -1,0 +1,27 @@
+body{
+	margin:0;
+}
+.con {
+    width: 327px;
+    height: 320px;
+    display: inline-block;
+    margin: 10px 20px;
+}
+
+.con p {
+    text-align: center;
+}
+
+.con img {
+    margin-left: 10px;
+	width: 300px;
+	height: 200px;
+}
+.duy1:HOVER {
+	background-color: #9e1623;
+}
+
+.duy2:HOVER {
+	color: white;
+	background-color: green;
+}
